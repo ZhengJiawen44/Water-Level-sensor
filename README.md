@@ -1,13 +1,13 @@
 # Water-Level-sensor
 ESP32 Water Level Sensor and TFT Display Project
 
-###Components Used
+### Components Used
 ESP32 Development Board: Used as the main microcontroller.
 TFT Display (ST7735): Display module for visual output.
 Water Level Sensor: Analog sensor to measure water level.
 LED: Indicator controlled via the web server.
 
-###Other Components:
+### Other Components:
 
 LED_PIN: GPIO pin for controlling an LED.
 rainAnalog: Analog pin connected to the water level sensor.
