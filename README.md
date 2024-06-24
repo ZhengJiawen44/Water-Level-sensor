@@ -1,6 +1,7 @@
 # Water-Level-sensor
 ESP32 Water Level Sensor and TFT Display Project. I also use a webpage to display sensor readings using AJAX. However The TFT display has stopped working when I implemented this functionality(webserver).
 
+![Example GIF](video.gif)
 ### Components Used
 ESP32 Development Board: Used as the main microcontroller.
 TFT Display (ST7735): Display module for visual output.
